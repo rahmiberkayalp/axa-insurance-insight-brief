@@ -38,13 +38,13 @@ Read the complete brief here:
 
 ## 📁 Repository Structure
 
+\`\`\`
 axa-insurance-insight-brief/
 │
-├── README.md # Project overview
-├── AXA_Insight_Brief.md # Full consulting-style brief
-└── images/ # Visuals (optional)
-
----
+├── README.md                 # Project overview
+├── AXA_Insight_Brief.md      # Full consulting-style brief
+└── images/                   # Visuals (optional)
+\`\`\`
 
 ## 🎯 Purpose of This Project
 
